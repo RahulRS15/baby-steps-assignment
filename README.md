@@ -47,7 +47,6 @@ Install dependencies:
 npm install
 Start the development server:
 npm run dev
-The application will be available at http://localhost:5173
 
 Usage
 Browse the list of available doctors on the home page
